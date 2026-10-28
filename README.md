@@ -48,3 +48,4 @@ Muhtemelen EVET! Kök izni ile çalışan veya öyle olmayan uygulamalar yapmay�
 • Discord
 • Tumblr (düşük ihtimal)
 
+## Yararlı olabilecek, engelleri anlaran bir site: https://sansurasma.ct.ws/
