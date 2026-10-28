@@ -20,14 +20,14 @@ Zaten yasadışı websitelerinde çoğu MERNIS bilgimiz gezmiyormuş gibi birde 
 • Google Play üzerinden bütün sosyal medya uygulamalarını en geç ekim ayının sonuna kadar kapatmak. Bu yazıyı 28 ekimde yazdığımız için henüz ne olacak bizde bilmiyoruz ama büyük önlemlerden birisi de budur, eğer yanlışlıkla güncellenir ise apkmirror, uptodown gibi güvenilir sitelerden eski sürüm APK kurabilirsiniz
 • VPN Kullanmak işe yaramayacak, VPN sadece IP adresini gizler, sizlerin ise konumunuzu spooflayan (aldatan) bir ayara ihtiyacınız vardır. Eğer TikTok kullanıyorsanız TikTok You, MargyT gibi modlu uygulamaları indirebilirsiniz. Bu uygulamalarda bölge değiştirme bulunur ve APK olarak Google harici şekilde indirilir, yani geliştiricilerin bu özelliği kaldırıp yamalama yapacağını umuyoruz
 
-indirme linkleri
+İndirme linkleri
 • MargyT : t.me/margymods
-• TikTok You: t.me/tikyouyok
+• TikTok You: t.me/tikyoutok
 
-biliyorum bir çoğunuz muhtemelen Telegram kullanmıyorsunuz ama geliştiriciler güncellemeleri buradan göndermekte 🫠 
+Biliyorum bir çoğunuz muhtemelen Telegram kullanmıyorsunuz ama geliştiriciler güncellemeleri buradan göndermekte 🫠 
 (💡Belki APK'ları bu repoya taşırız) 
 
-• Telefonun konumunu veya Google Play ödeme konumunu değiştirmeyi denemyin, bu hatalara sebep olabilir. Bizde denemedik ama bu yöntem sizi tamamen farklı ülkede göstermeye çalışıp aynı zamanda konumunuz hala Türkiye olarak gözükeceği için Google Play Ödeme gibi özelliklerdende mahrum kalabilirsiniz 
+• Telefonun konumunu veya Google Play ödeme konumunu değiştirmeyi denemeyin, bu hatalara sebep olabilir. Bizde denemedik ama bu yöntem sizi tamamen farklı ülkede göstermeye çalışıp aynı zamanda konumunuz hala Türkiye olarak gözükeceği için Google Play Ödeme gibi özelliklerdende mahrum kalabilirsiniz 
 • Tor Browser kullanarak sosyal medya uygulamalarının web sürümüne (tiktok.com vs) erişebileceğinizi düşünüyoruz. Ancak bu seçenek yavaştır ve websiteleri sizi robot sandığı için erişimini siteye kesebilir
 
 ## Sadece bu kadar mı?
