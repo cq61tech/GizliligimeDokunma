@@ -35,3 +35,13 @@ Hayır, sizin için çok çalışacağız ve bulduğumuz her yöntemi buraya koy
 # Herhangi bir proje çıkacak mı yoksa sadece yazı mı?
 Muhtemelen EVET! Kök izni ile çalışan veya öyle olmayan uygulamalar yapmayı düşünüyoruz, amacı ise telefonunuzun konumunu belirli uygulamalara karşı başka ülke olarak spooflamak. Ancak buda dediğimiz gibi olmayabilir çünkü **bilmiyoruz**
 
+# Tahmini Yasadan Etkilenecek Uygulama Listesi
+• Instagram
+• TikTok 
+• YouTube 
+• X (eski adıyla twitter)
+• WhatsApp (düşük ihtimal)
+• Telegram 
+• Discord
+• Tumblr (düşük ihtimal)
+
