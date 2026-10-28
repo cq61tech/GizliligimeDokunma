@@ -24,7 +24,7 @@ indirme linkleri
 • MargyT : t.me/margymods
 • TikTok You: t.me/tikyouyok
 
-biliyorum bir çoğunuz muhtemelen Telegram kullanıyorsunuz ama geliştiriciler güncellemeleri buradan yapıyor 🫠
+biliyorum bir çoğunuz muhtemelen Telegram kullanmıyorsunuz ama geliştiriciler güncellemeleri buradan yapıyor 🫠 Belki APK'ları bu repoya taşırız 
 
 • Telefonun konumunu veya Google Play ödeme konumunu değiştirmeyi denemyin, bu hatalara sebep olabilir. Bizde denemedik ama bu yöntem sizi tamamen farklı ülkede göstermeye çalışıp aynı zamanda konumunuz hala Türkiye olarak gözükeceği için Google Play Ödeme gibi özelliklerdende mahrum kalabilirsiniz 
 • Tor Browser kullanarak sosyal medya uygulamalarının web sürümüne (tiktok.com vs) erişebileceğinizi düşünüyoruz. Ancak bu seçenek yavaştır ve websiteleri sizi robot sandığı için erişimini siteye kesebilir
